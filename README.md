@@ -10,6 +10,8 @@ python preditor.py -i input.csv
 ```
 Finally it will generate a result.csv
 
+Or you can go to the mlp4umami webserver at https://hwwlab.com/webserver/mlp4umami
+
 ## How to train mlp4umami
 ```
 python main.py
